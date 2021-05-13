@@ -1,8 +1,4 @@
 /**
-  
-   #BEE
-   
-   #LIQ+#RFI+#SHIB+#DOGE = #BEE
 
    #Mellivoracapensis features:
    3% fee auto add to the liquidity pool to locked forever when selling
